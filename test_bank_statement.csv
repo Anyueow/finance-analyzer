@@ -1,0 +1,298 @@
+date,description,amount,category
+2023-01-01,Brokerage Transfer,1122.68,Savings & Investments
+2023-01-01,Roth IRA,1286.59,Savings & Investments
+2023-01-01,Rent Payment,1825.07,Housing
+2023-01-01,Transfer,376.78,Uncategorized
+2023-01-02,Target,526.04,Shopping
+2023-01-03,Shell Gas Station,417.2,Transportation
+2023-01-04,Car Insurance,414.26,Transportation
+2023-01-06,Brokerage Transfer,876.88,Savings & Investments
+2023-01-06,Health Insurance,151.88,Health & Wellness
+2023-01-06,Health Insurance,178.1,Health & Wellness
+2023-01-07,Gas Bill,1751.83,Housing
+2023-01-13,Transfer,336.83,Uncategorized
+2023-01-14,Car Maintenance,359.96,Transportation
+2023-01-15,Property Tax,1891.09,Housing
+2023-01-15,Apple Store,617.34,Shopping
+2023-01-15,Apple Store,635.64,Shopping
+2023-01-15,Refund,565.51,Uncategorized
+2023-01-15,Starbucks,654.29,Food
+2023-01-16,Property Tax,2345.03,Housing
+2023-01-19,Dentist,178.1,Health & Wellness
+2023-01-20,Home Depot,552.9,Shopping
+2023-01-20,Water Bill,363.17,Utilities
+2023-01-22,Starbucks,725.94,Food
+2023-01-22,Internet Service,362.62,Utilities
+2023-01-22,Interest Payment,1676.69,Uncategorized
+2023-01-22,Dentist,230.23,Health & Wellness
+2023-01-24,Refund,343.3,Uncategorized
+2023-01-25,Movie Theater,239.18,Entertainment
+2023-01-28,Savings Account,862.49,Savings & Investments
+2023-02-01,Roth IRA,1038.36,Savings & Investments
+2023-02-04,Water Bill,1914.21,Housing
+2023-02-04,Car Insurance,433.48,Transportation
+2023-02-05,Exxon Gas,325.2,Transportation
+2023-02-05,Dentist,236.6,Health & Wellness
+2023-02-05,Starbucks,845.63,Food
+2023-02-06,Brokerage Transfer,958.89,Savings & Investments
+2023-02-07,Home Insurance,1546.59,Housing
+2023-02-07,Rent Payment,2106.05,Housing
+2023-02-09,Internet Service,1857.04,Housing
+2023-02-09,Health Insurance,163.14,Health & Wellness
+2023-02-09,Refund,359.61,Uncategorized
+2023-02-10,Netflix Subscription,334.81,Entertainment
+2023-02-11,Chipotle,981.29,Food
+2023-02-13,Dentist,194.25,Health & Wellness
+2023-02-14,Best Buy,434.57,Shopping
+2023-02-15,Health Insurance,187.21,Health & Wellness
+2023-02-17,Yoga Class,171.67,Health & Wellness
+2023-02-21,Netflix Subscription,298.9,Entertainment
+2023-02-24,Car Insurance,445.11,Transportation
+2023-02-25,Roth IRA,1048.18,Savings & Investments
+2023-02-26,Home Depot,451.91,Shopping
+2023-02-27,Uber Ride,306.88,Transportation
+2023-02-27,Water Bill,279.28,Utilities
+2023-02-28,Uber Ride,391.64,Transportation
+2023-02-28,Home Depot,549.56,Shopping
+2023-03-02,Netflix Subscription,343.97,Entertainment
+2023-03-02,Apple Store,545.03,Shopping
+2023-03-02,Water Bill,2331.16,Housing
+2023-03-03,MBTA Monthly Pass,459.62,Transportation
+2023-03-04,Savings Account,998.39,Savings & Investments
+2023-03-04,Internet Service,346.55,Utilities
+2023-03-05,MBTA Monthly Pass,419.15,Transportation
+2023-03-07,Lyft Ride,346.12,Transportation
+2023-03-07,Walmart Grocery,1064.45,Food
+2023-03-07,Lyft Ride,306.62,Transportation
+2023-03-08,Amazon Purchase,493.57,Shopping
+2023-03-08,Gas Bill,288.74,Utilities
+2023-03-09,Internet Service,1641.93,Housing
+2023-03-13,Clothing Store,632.19,Shopping
+2023-03-14,Yoga Class,146.29,Health & Wellness
+2023-03-15,Spotify Premium,344.42,Entertainment
+2023-03-15,Cable TV,239.46,Utilities
+2023-03-19,Bank Fee,1201.85,Uncategorized
+2023-03-20,Gym Membership,363.89,Entertainment
+2023-03-24,Gym Membership,263.87,Entertainment
+2023-03-24,Best Buy,391.93,Shopping
+2023-03-26,Target,667.82,Shopping
+2023-03-27,Emergency Fund,1000.5,Savings & Investments
+2023-03-28,Shell Gas Station,341.17,Transportation
+2023-04-01,Property Tax,2415.62,Housing
+2023-04-02,Apple Store,601.95,Shopping
+2023-04-04,ATM Withdrawal,305.86,Uncategorized
+2023-04-04,Water Bill,1731.32,Housing
+2023-04-05,Target,410.85,Shopping
+2023-04-05,Movie Theater,236.47,Entertainment
+2023-04-06,Whole Foods,718.21,Food
+2023-04-07,Amazon Purchase,529.7,Shopping
+2023-04-08,Spotify Premium,278.03,Entertainment
+2023-04-09,Car Maintenance,365.65,Transportation
+2023-04-09,Interest Payment,340.52,Uncategorized
+2023-04-10,Clothing Store,454.66,Shopping
+2023-04-10,Rent Payment,2515.52,Housing
+2023-04-12,Starbucks,704.93,Food
+2023-04-13,Refund,2448.01,Uncategorized
+2023-04-13,Car Maintenance,300.31,Transportation
+2023-04-13,Health Insurance,198.01,Health & Wellness
+2023-04-16,Uber Ride,542.5,Transportation
+2023-04-16,Chipotle,902.19,Food
+2023-04-16,Car Maintenance,320.11,Transportation
+2023-04-17,Amazon Purchase,401.13,Shopping
+2023-04-22,ATM Withdrawal,587.94,Uncategorized
+2023-04-23,Uber Eats,797.94,Food
+2023-04-25,Spotify Premium,281.8,Entertainment
+2023-04-25,401k Contribution,810.5,Savings & Investments
+2023-04-26,Savings Account,1075.0,Savings & Investments
+2023-04-26,Netflix Subscription,314.91,Entertainment
+2023-05-03,Car Maintenance,360.29,Transportation
+2023-05-06,Electric Bill,283.79,Utilities
+2023-05-11,Uber Eats,851.94,Food
+2023-05-12,Payment Received,722.95,Uncategorized
+2023-05-12,Roth IRA,821.78,Savings & Investments
+2023-05-13,Bank Fee,268.59,Uncategorized
+2023-05-15,Savings Account,1073.65,Savings & Investments
+2023-05-15,Whole Foods,780.7,Food
+2023-05-16,Clothing Store,645.69,Shopping
+2023-05-16,Starbucks,772.79,Food
+2023-05-18,Yoga Class,239.72,Health & Wellness
+2023-05-18,Lyft Ride,353.3,Transportation
+2023-05-19,Uber Ride,405.52,Transportation
+2023-05-22,Yoga Class,154.54,Health & Wellness
+2023-05-24,Best Buy,460.08,Shopping
+2023-05-24,Gas Bill,1766.33,Housing
+2023-05-25,Whole Foods,832.33,Food
+2023-05-25,Gas Bill,258.2,Utilities
+2023-05-26,Spotify Premium,245.51,Entertainment
+2023-06-01,401k Contribution,1004.02,Savings & Investments
+2023-06-02,Spotify Premium,358.08,Entertainment
+2023-06-03,Cable TV,320.7,Utilities
+2023-06-05,Amazon Purchase,465.23,Shopping
+2023-06-06,MBTA Monthly Pass,382.43,Transportation
+2023-06-07,Apple Store,529.52,Shopping
+2023-06-08,McDonalds,837.89,Food
+2023-06-09,Water Bill,300.97,Utilities
+2023-06-11,Doctor Visit,157.3,Health & Wellness
+2023-06-11,Concert Tickets,360.49,Entertainment
+2023-06-11,Electric Bill,232.16,Utilities
+2023-06-11,Walmart Grocery,978.17,Food
+2023-06-14,Amazon Prime,432.45,Entertainment
+2023-06-14,Home Depot,503.88,Shopping
+2023-06-14,Uber Ride,469.93,Transportation
+2023-06-14,Car Maintenance,459.68,Transportation
+2023-06-16,Apple Store,661.42,Shopping
+2023-06-16,Dentist,245.1,Health & Wellness
+2023-06-16,Rent Payment,2100.56,Housing
+2023-06-18,Home Depot,452.18,Shopping
+2023-06-18,Yoga Class,255.45,Health & Wellness
+2023-06-19,Gym Membership,192.94,Health & Wellness
+2023-06-22,Bank Fee,1717.09,Uncategorized
+2023-06-23,Lyft Ride,680.62,Transportation
+2023-06-23,Phone Bill,376.0,Utilities
+2023-06-24,Amazon Prime,346.14,Entertainment
+2023-06-24,Phone Bill,346.01,Utilities
+2023-06-27,Spotify Premium,359.35,Entertainment
+2023-06-27,Car Maintenance,543.38,Transportation
+2023-07-02,Lyft Ride,363.76,Transportation
+2023-07-03,Home Insurance,1733.37,Housing
+2023-07-04,Gas Bill,210.58,Utilities
+2023-07-04,Apple Store,556.38,Shopping
+2023-07-05,Chipotle,902.14,Food
+2023-07-07,Roth IRA,843.03,Savings & Investments
+2023-07-09,ATM Withdrawal,212.57,Uncategorized
+2023-07-09,Transfer,449.63,Uncategorized
+2023-07-10,Phone Bill,305.96,Utilities
+2023-07-15,Local Restaurant,913.71,Food
+2023-07-15,Chipotle,657.25,Food
+2023-07-15,Phone Bill,264.62,Utilities
+2023-07-16,Health Insurance,182.83,Health & Wellness
+2023-07-18,Phone Bill,253.86,Utilities
+2023-07-20,Gym Membership,392.66,Entertainment
+2023-07-20,Refund,686.73,Uncategorized
+2023-07-21,Water Bill,1912.82,Housing
+2023-07-22,Brokerage Transfer,919.3,Savings & Investments
+2023-07-23,Best Buy,467.29,Shopping
+2023-07-23,Apple Store,463.96,Shopping
+2023-07-24,Lyft Ride,603.47,Transportation
+2023-07-25,Netflix Subscription,315.81,Entertainment
+2023-07-26,Car Maintenance,417.7,Transportation
+2023-07-26,Health Insurance,170.18,Health & Wellness
+2023-07-27,Gym Membership,226.31,Health & Wellness
+2023-07-28,Concert Tickets,273.02,Entertainment
+2023-08-01,Best Buy,394.36,Shopping
+2023-08-01,401k Contribution,968.38,Savings & Investments
+2023-08-02,Water Bill,1408.25,Housing
+2023-08-03,Emergency Fund,982.74,Savings & Investments
+2023-08-03,Amazon Prime,407.32,Entertainment
+2023-08-04,Health Insurance,156.04,Health & Wellness
+2023-08-08,Health Insurance,205.78,Health & Wellness
+2023-08-08,Chipotle,980.15,Food
+2023-08-10,Amazon Purchase,530.22,Shopping
+2023-08-11,Spotify Premium,423.2,Entertainment
+2023-08-12,Bank Fee,222.08,Uncategorized
+2023-08-13,Concert Tickets,316.59,Entertainment
+2023-08-14,Uber Ride,423.67,Transportation
+2023-08-15,Rent Payment,2535.85,Housing
+2023-08-15,Yoga Class,191.8,Health & Wellness
+2023-08-16,Water Bill,281.11,Utilities
+2023-08-16,Phone Bill,238.9,Utilities
+2023-08-16,Clothing Store,435.75,Shopping
+2023-08-17,Netflix Subscription,405.76,Entertainment
+2023-08-18,Refund,500.09,Uncategorized
+2023-08-19,Property Tax,2351.08,Housing
+2023-08-20,Uber Ride,573.72,Transportation
+2023-08-21,Car Maintenance,448.81,Transportation
+2023-08-22,Shell Gas Station,482.6,Transportation
+2023-08-24,Walmart Grocery,663.37,Food
+2023-08-25,Whole Foods,893.5,Food
+2023-08-25,Brokerage Transfer,927.24,Savings & Investments
+2023-08-26,Payment Received,393.64,Uncategorized
+2023-08-27,Roth IRA,938.64,Savings & Investments
+2023-08-27,Best Buy,431.0,Shopping
+2023-08-27,Whole Foods,700.43,Food
+2023-08-28,Savings Account,1085.43,Savings & Investments
+2023-09-01,Concert Tickets,309.45,Entertainment
+2023-09-02,Gym Membership,270.65,Entertainment
+2023-09-05,Bank Fee,2192.58,Uncategorized
+2023-09-06,Refund,213.38,Uncategorized
+2023-09-07,Roth IRA,809.92,Savings & Investments
+2023-09-08,Emergency Fund,885.49,Savings & Investments
+2023-09-10,Best Buy,386.69,Shopping
+2023-09-10,Local Restaurant,744.05,Food
+2023-09-11,Home Insurance,1941.65,Housing
+2023-09-11,Spotify Premium,326.42,Entertainment
+2023-09-12,Brokerage Transfer,1002.66,Savings & Investments
+2023-09-13,Exxon Gas,468.05,Transportation
+2023-09-14,Property Tax,1892.92,Housing
+2023-09-15,Trader Joes,915.41,Food
+2023-09-15,Lyft Ride,316.02,Transportation
+2023-09-16,Doctor Visit,239.61,Health & Wellness
+2023-09-16,Yoga Class,159.88,Health & Wellness
+2023-09-17,Phone Bill,367.5,Utilities
+2023-09-18,Interest Payment,979.78,Uncategorized
+2023-09-19,401k Contribution,1030.27,Savings & Investments
+2023-09-20,Gas Bill,300.2,Utilities
+2023-09-25,Electric Bill,257.6,Utilities
+2023-09-25,Electric Bill,1783.91,Housing
+2023-09-26,Target,709.33,Shopping
+2023-09-27,Gym Membership,284.52,Entertainment
+2023-09-28,Electric Bill,2507.96,Housing
+2023-09-28,Exxon Gas,418.01,Transportation
+2023-10-04,Gas Bill,241.66,Utilities
+2023-10-07,Payment Received,172.16,Uncategorized
+2023-10-10,Exxon Gas,375.04,Transportation
+2023-10-12,Local Restaurant,825.32,Food
+2023-10-12,Spotify Premium,336.46,Entertainment
+2023-10-14,Emergency Fund,1275.88,Savings & Investments
+2023-10-15,Gas Bill,362.5,Utilities
+2023-10-18,Gym Membership,184.08,Health & Wellness
+2023-10-19,Whole Foods,810.87,Food
+2023-10-22,Gym Membership,164.76,Health & Wellness
+2023-10-24,Doctor Visit,225.95,Health & Wellness
+2023-10-24,Gas Bill,323.41,Utilities
+2023-10-25,Home Insurance,1985.84,Housing
+2023-10-26,Gym Membership,160.36,Health & Wellness
+2023-10-26,Walmart Grocery,777.31,Food
+2023-10-26,Amazon Purchase,615.49,Shopping
+2023-11-01,Dentist,218.46,Health & Wellness
+2023-11-01,Amazon Prime,521.57,Entertainment
+2023-11-02,Chipotle,815.09,Food
+2023-11-02,Amazon Prime,464.65,Entertainment
+2023-11-03,Water Bill,362.23,Utilities
+2023-11-03,Home Insurance,1896.43,Housing
+2023-11-03,ATM Withdrawal,959.4,Uncategorized
+2023-11-04,Uber Eats,749.35,Food
+2023-11-06,Gym Membership,328.86,Entertainment
+2023-11-07,Gas Bill,348.22,Utilities
+2023-11-09,Yoga Class,177.01,Health & Wellness
+2023-11-12,Car Maintenance,319.5,Transportation
+2023-11-13,Pharmacy,203.74,Health & Wellness
+2023-11-13,Apple Store,572.5,Shopping
+2023-11-17,Cable TV,232.96,Utilities
+2023-11-20,Roth IRA,719.77,Savings & Investments
+2023-11-20,Transfer,292.38,Uncategorized
+2023-11-21,Dentist,203.37,Health & Wellness
+2023-11-21,Lyft Ride,423.24,Transportation
+2023-11-23,Gym Membership,424.43,Entertainment
+2023-11-23,Exxon Gas,296.83,Transportation
+2023-11-23,Starbucks,690.12,Food
+2023-11-25,Shell Gas Station,357.77,Transportation
+2023-11-25,Uber Eats,842.01,Food
+2023-11-26,Phone Bill,272.54,Utilities
+2023-12-01,Spotify Premium,387.09,Entertainment
+2023-12-02,Phone Bill,422.44,Utilities
+2023-12-05,Roth IRA,778.32,Savings & Investments
+2023-12-06,Best Buy,733.29,Shopping
+2023-12-07,McDonalds,682.29,Food
+2023-12-09,Amazon Purchase,623.74,Shopping
+2023-12-11,Dentist,151.93,Health & Wellness
+2023-12-12,Spotify Premium,317.73,Entertainment
+2023-12-12,Electric Bill,2492.37,Housing
+2023-12-16,Spotify Premium,363.58,Entertainment
+2023-12-18,Property Tax,1487.53,Housing
+2023-12-21,MBTA Monthly Pass,351.94,Transportation
+2023-12-24,Apple Store,517.62,Shopping
+2023-12-25,Home Depot,879.89,Shopping
+2023-12-26,Yoga Class,249.15,Health & Wellness
+2023-12-26,Payment Received,334.73,Uncategorized
+2023-12-27,Transfer,318.06,Uncategorized
