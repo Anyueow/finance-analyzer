@@ -1,36 +1,55 @@
 import pymysql
-import os
-from dotenv import load_dotenv
+import logging
 
-# Load environment variables
-load_dotenv()
+# Configure logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s'
+)
+logger = logging.getLogger()
 
-# RDS connection parameters
-rds_config = {
-    'host': os.getenv('RDS_HOST'),
-    'port': int(os.getenv('RDS_PORT')),
-    'user': os.getenv('RDS_USER'),
-    'password': os.getenv('RDS_PASSWORD'),
-    'db': os.getenv('RDS_DB')
-}
+# RDS connection settings
+RDS_HOST     = "ds4300-rds-finance-analyzer.c0t46g0ic3b7.us-east-1.rds.amazonaws.com"
+RDS_PORT     = 3306
+RDS_USER     = "admin"
+RDS_PASSWORD = "password"
+RDS_DB       = "finance_tracker"
 
-try:
-    # Attempt to connect to RDS
-    print("Attempting to connect to RDS...")
-    connection = pymysql.connect(**rds_config)
-    
-    # If connection successful, list available tables
-    with connection.cursor() as cursor:
-        cursor.execute("SHOW TABLES")
-        tables = cursor.fetchall()
+def test_connection():
+    try:
+        logger.info("Attempting to connect to RDS...")
+        logger.info(f"Host: {RDS_HOST}")
+        logger.info(f"Database: {RDS_DB}")
         
-        print("\n✅ Successfully connected to RDS!")
-        print(f"\nAvailable tables in {rds_config['db']}:")
-        for table in tables:
-            print(f"- {table[0]}")
-            
-except Exception as e:
-    print(f"\n❌ Error connecting to RDS: {e}")
-finally:
-    if 'connection' in locals():
-        connection.close() 
+        # Try to connect with a short timeout
+        conn = pymysql.connect(
+            host=RDS_HOST,
+            user=RDS_USER,
+            password=RDS_PASSWORD,
+            database=RDS_DB,
+            port=RDS_PORT,
+            connect_timeout=5
+        )
+        
+        logger.info("Successfully connected to RDS!")
+        
+        # Test a simple query
+        with conn.cursor() as cur:
+            cur.execute("SELECT 1")
+            result = cur.fetchone()
+            logger.info(f"Test query result: {result}")
+        
+        conn.close()
+        return True
+        
+    except pymysql.Error as e:
+        logger.error(f"MySQL Error: {str(e)}")
+        logger.error(f"Error code: {e.args[0]}")
+        logger.error(f"Error message: {e.args[1]}")
+        return False
+    except Exception as e:
+        logger.error(f"Unexpected error: {str(e)}")
+        return False
+
+if __name__ == "__main__":
+    test_connection() 
